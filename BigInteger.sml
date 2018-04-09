@@ -1,5 +1,5 @@
 
-use "Bn1.sml";
+use "Bignaturalnumber.sml";
 open BIGNAT ;
 functor BigInt (Bn: B) :
  
